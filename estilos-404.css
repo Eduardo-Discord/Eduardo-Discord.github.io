@@ -3,6 +3,6 @@ body {
 }
 
 .header2 img {
-  max-width: 500%;
   height: auto;
+  width: auto;
 }
