@@ -1,3 +1,10 @@
 body {
     background-color:#2C2F33;
 }
+
+.header2 {
+    img {
+  max-width: 100%;
+  height: auto;
+}
+}
